@@ -37,3 +37,31 @@ img {
 .hero > img{
   margin-right: 70px;
 }
+
+.about-me{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.about-me > h3{
+  font-size: 32px;
+}
+
+.about-me > p{
+  font-size: 24;
+  padding: 20px 20%;
+}
+
+.all-cards{
+  width: 50%;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+
+}
+.card1,.card2,.card3{
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 8px;
+}
